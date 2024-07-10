@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am junior dev looking forward to learning more about development!
+
+Initially followed a web dev training course focusing on PHP and JS, after which i deployed a first personnal web project by creating a fansite (https://main.shigumanofans.com).
+
+While so far i have mostly experienced PHP (Laravel & Symfony) and JS/TS (Vue, React, Angular), I am currently self-learning Java and Spring to increase my knowledge and see other project environments.
+
+⛔Only projects intended as study or software will be public repository. All repositories about personal projects intended to be deployed as web apps are strictly private.
+
 <!--
 **g-broche/g-broche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
